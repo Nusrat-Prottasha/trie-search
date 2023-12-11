@@ -1,7 +1,6 @@
 # Trie Search
 A little Search Engine implementation using Trie Data Structure.
 
-[*See Documentation*](https://rohitkaushal7.github.io/trie-search)
 
 ### scripts
 - `make`
@@ -22,7 +21,7 @@ In computer science, a trie, also called digital tree or prefix tree, is a kind 
 
 Unlike a binary search tree, no node in the tree stores the key associated with that node; instead, its position in the tree defines the key with which it is associated; i.e., the value of the key is distributed across the structure. All the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string. Keys tend to be associated with leaves, though some inner nodes may correspond to keys of interest. Hence, keys are not necessarily associated with every node. For the space-optimized presentation of prefix tree, see compact prefix tree.
 
-![](https://4.bp.blogspot.com/-8k4wh7UHgk0/WXmLHldDZyI/AAAAAAAAACo/KgI2LkJKaiQzMCecx91dOFrSKcCdWDxhgCLcBGAs/s640/trie.png)
+
 
 # Applications
 
@@ -51,15 +50,7 @@ Unlike a binary search tree, no node in the tree stores the key associated with 
 ## Run the project (win)
 - Compile the file `src/main.cpp` in windows to produce the executable and then run the executable.
 
-# Example
-### Universal Search
-![](./docs/images/uni-search.png)
-### Prefix Search 
-![](./docs/images/pre-search.png)
 
-## Contributors
 
-- [Rohit Kaushal](https://www.github.com/RohitKaushal7) <br>
-- [Nishit Attrey](https://www.github.com/NishitAttrey) <br>
-- [Vishal Shrivastava](https://www.github.com/vishalshrivastava16) <br>
+
 
